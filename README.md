@@ -1,9 +1,10 @@
 # React with Tailwind CSS
 
-### `npm run start`
+Run `npm install` to install all dependencies.
 
-Runs the app in the development mode.
+Run `npm run start` to start in development mode.
 
-Open `http://localhost:3000` to view it in the browser.
+Then open `http://localhost:3000` to view it in the browser.
 
 The page will reload if you make edits. You will also see any lint errors in the console.
+
